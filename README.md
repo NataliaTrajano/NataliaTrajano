@@ -17,8 +17,8 @@ de atividades complementares e com esse meu gosto cheguei a comprovar 777 hs.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaTrajano&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<!--Imagens de algumas linguagens / tecnologias que tive contato-->
-### 💻 Algumas linguagens que já tive contato: 
+<!--Imagens de algumas linguagens e tecnologias que tive contato-->
+### 💻 Algumas linguagens / tecnologias que tive contato: 
 <div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -26,9 +26,12 @@ de atividades complementares e com esse meu gosto cheguei a comprovar 777 hs.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://blog.sqlauthority.com/wp-content/uploads/2008/12/ssms.png">
-  <img align="center" alt="Power BI Desktop" height="30" width="40" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png">
+  <img align="center" alt="SQL Server Management Studio" height="30" width="40" src="https://blog.sqlauthority.com/wp-content/uploads/2008/12/ssms.png">
+  <img align="center" alt="Power BI Desktop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Data Bricks Commnunity" height="30" width="40" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4">
+  <img align="center" alt="Notebook Google Colaboratory" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
+  <img align="center" alt="Canva " height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg">
+
 
 </div>
 
